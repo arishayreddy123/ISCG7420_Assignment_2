@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Conference Room Reservation App – React frontend",
+  "homepage": ".",
+  "private": true,
+  "proxy": "http://localhost:8000",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1",
+    "react-scripts": "5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arishayreddy123/ISCG7420_Assignment_2.git"
+  },
+  "author": "Arishay Reddy",
+  "license": "MIT"
+}
